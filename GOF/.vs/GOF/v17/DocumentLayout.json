@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\observer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\gof\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\gof\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\adapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|c:\\users\\dara.satishkumar\\source\\repos\\gof\\gof\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A626E59-AB45-4E12-9590-1B9192F1F164}|GOF\\GOF.csproj|solutionrelative:gof\\prototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Observer.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Observer.cs",
+              "RelativeDocumentMoniker": "GOF\\Observer.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Observer.cs",
+              "RelativeToolTip": "GOF\\Observer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:56:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Template.cs",
+              "RelativeDocumentMoniker": "GOF\\Template.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Template.cs",
+              "RelativeToolTip": "GOF\\Template.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:54:37.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Facade.cs",
+              "RelativeDocumentMoniker": "GOF\\Facade.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Facade.cs",
+              "RelativeToolTip": "GOF\\Facade.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAQwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:18:29.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Adapter.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Adapter.cs",
+              "RelativeDocumentMoniker": "GOF\\Adapter.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Adapter.cs",
+              "RelativeToolTip": "GOF\\Adapter.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:56:01.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prototype.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Prototype.cs",
+              "RelativeDocumentMoniker": "GOF\\Prototype.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Prototype.cs",
+              "RelativeToolTip": "GOF\\Prototype.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:32:24.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Factory.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Factory.cs",
+              "RelativeDocumentMoniker": "GOF\\Factory.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Factory.cs",
+              "RelativeToolTip": "GOF\\Factory.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAcwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:02:09.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Singleton.cs",
+              "RelativeDocumentMoniker": "GOF\\Singleton.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Singleton.cs",
+              "RelativeToolTip": "GOF\\Singleton.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAqwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:56:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Program.cs",
+              "RelativeDocumentMoniker": "GOF\\Program.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\GOF\\GOF\\Program.cs",
+              "RelativeToolTip": "GOF\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T04:55:42.564Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

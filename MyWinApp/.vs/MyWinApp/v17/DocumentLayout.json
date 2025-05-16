@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|solutionrelative:mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|c:\\users\\dara.satishkumar\\source\\repos\\mywinapp\\mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|solutionrelative:mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|c:\\users\\dara.satishkumar\\source\\repos\\mywinapp\\mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|solutionrelative:mywinapp\\regexdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\mywinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|solutionrelative:mywinapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\mywinapp\\regexdemo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E107E8DD-1FAA-446E-84E4-1709CEB27DA3}|MyWinApp\\MyWinApp.csproj|solutionrelative:mywinapp\\regexdemo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegExDemo.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs",
+              "RelativeDocumentMoniker": "MyWinApp\\RegExDemo.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs",
+              "RelativeToolTip": "MyWinApp\\RegExDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T06:29:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegExDemo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.Designer.cs",
+              "RelativeDocumentMoniker": "MyWinApp\\RegExDemo.Designer.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.Designer.cs",
+              "RelativeToolTip": "MyWinApp\\RegExDemo.Designer.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIAwwDEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:38:14.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegExDemo.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs",
+              "RelativeDocumentMoniker": "MyWinApp\\RegExDemo.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs",
+              "RelativeToolTip": "MyWinApp\\RegExDemo.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADgvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:07:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegExDemo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs",
+              "RelativeDocumentMoniker": "MyWinApp\\RegExDemo.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\RegExDemo.cs [Design]",
+              "RelativeToolTip": "MyWinApp\\RegExDemo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:05:15.271Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyWinApp\\Program.cs",
+              "ToolTip": "C:\\Users\\dara.satishkumar\\source\\repos\\MyWinApp\\MyWinApp\\Program.cs",
+              "RelativeToolTip": "MyWinApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T04:53:45.668Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
